@@ -37,6 +37,7 @@ body{
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  background-size: cover;
 }
 .gallery .login-box  {
   width: 90px;

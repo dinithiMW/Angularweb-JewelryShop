@@ -1,0 +1,54 @@
+.row img {
+    width: 50%;
+    height: 50%; 
+  }
+.card {
+    display: block;
+    box-sizing: border-box;
+    width: 260px;
+    position: fixed;
+    z-index: 1;
+    top: 15%;
+    left: 8%;
+    background-color: #f1f1f1;
+    padding-top: 20px;
+    object-fit: cover;
+  }
+  .card-title {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+  }
+     .card-subtitle{
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    display: block;
+  }
+  
+  .list-group-item {
+    background-color: #f1f1f1;
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    display: block;
+  }
+  
+  .card a:hover {
+    color: #f1f1f1;
+  }
+  .card-title2 {
+    padding: 50x 50px px 16px;
+    text-decoration: none;
+    font-size: 25px;
+    color: black;
+    display: block;
+  }
+  .card-img{
+      width: 600px;
+      height: 200px;
+  }
